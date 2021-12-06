@@ -1,1 +1,46 @@
 [27-Nov-2021 14:31:31 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ',' or ';' in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/index.php on line 2
+[27-Nov-2021 20:16:37 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/functions.php on line 6
+[27-Nov-2021 20:16:37 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/functions.php on line 6
+[27-Nov-2021 20:17:06 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting ')' in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/functions.php on line 8
+[27-Nov-2021 20:17:06 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting ')' in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/functions.php on line 8
+[27-Nov-2021 20:17:16 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/functions.php on line 7
+[27-Nov-2021 20:17:16 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/functions.php on line 7
+[27-Nov-2021 20:17:26 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/functions.php on line 8
+[27-Nov-2021 20:17:26 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/functions.php on line 8
+[28-Nov-2021 12:15:03 UTC] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION) in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/functions.php on line 16
+[28-Nov-2021 12:15:03 UTC] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION) in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/functions.php on line 16
+[06-Dec-2021 22:43:48 UTC] PHP Parse error:  syntax error, unexpected 'update_option' (T_STRING) in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/functions.php on line 16
+[06-Dec-2021 22:43:51 UTC] PHP Parse error:  syntax error, unexpected 'update_option' (T_STRING) in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/functions.php on line 16
+[06-Dec-2021 22:43:55 UTC] PHP Parse error:  syntax error, unexpected 'update_option' (T_STRING) in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/functions.php on line 16
+[06-Dec-2021 22:43:55 UTC] PHP Parse error:  syntax error, unexpected 'update_option' (T_STRING) in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/functions.php on line 16
+[06-Dec-2021 22:43:55 UTC] PHP Parse error:  syntax error, unexpected 'update_option' (T_STRING) in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/functions.php on line 16
+[06-Dec-2021 23:04:48 UTC] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION) in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/functions.php on line 21
+[06-Dec-2021 23:04:48 UTC] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION) in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/functions.php on line 21
+[06-Dec-2021 23:04:53 UTC] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION) in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/functions.php on line 21
+[06-Dec-2021 23:04:53 UTC] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION) in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/functions.php on line 21
+[06-Dec-2021 23:04:54 UTC] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION) in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/functions.php on line 21
+[06-Dec-2021 23:04:54 UTC] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION) in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/functions.php on line 21
+[06-Dec-2021 23:04:55 UTC] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION) in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/functions.php on line 21
+[06-Dec-2021 23:04:55 UTC] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION) in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/functions.php on line 21
+[06-Dec-2021 23:43:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_query_search() in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/header.php:25
+Stack trace:
+#0 /home/matheus/repositorio/handel/app/public/wp-includes/template.php(770): require_once()
+#1 /home/matheus/repositorio/handel/app/public/wp-includes/template.php(716): load_template('/home/matheus/r...', true, Array)
+#2 /home/matheus/repositorio/handel/app/public/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php(3): get_header()
+#4 /home/matheus/repositorio/handel/app/public/wp-includes/template-loader.php(106): include('/home/matheus/r...')
+#5 /home/matheus/repositorio/handel/app/public/wp-blog-header.php(19): require_once('/home/matheus/r...')
+#6 /home/matheus/repositorio/handel/app/public/index.php(17): require('/home/matheus/r...')
+#7 {main}
+  thrown in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/header.php on line 25
+[06-Dec-2021 23:43:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_query_search() in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/header.php:25
+Stack trace:
+#0 /home/matheus/repositorio/handel/app/public/wp-includes/template.php(770): require_once()
+#1 /home/matheus/repositorio/handel/app/public/wp-includes/template.php(716): load_template('/home/matheus/r...', true, Array)
+#2 /home/matheus/repositorio/handel/app/public/wp-includes/general-template.php(48): locate_template(Array, true, true, Array)
+#3 /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php(3): get_header()
+#4 /home/matheus/repositorio/handel/app/public/wp-includes/template-loader.php(106): include('/home/matheus/r...')
+#5 /home/matheus/repositorio/handel/app/public/wp-blog-header.php(19): require_once('/home/matheus/r...')
+#6 /home/matheus/repositorio/handel/app/public/index.php(17): require('/home/matheus/r...')
+#7 {main}
+  thrown in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/header.php on line 25
