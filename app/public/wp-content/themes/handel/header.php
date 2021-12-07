@@ -12,18 +12,17 @@
 <body <?php body_class() ?>>
 
 <?php 
-
   $img_url = get_stylesheet_directory_uri() . '/img';
   $cart_count  = WC()->cart->get_cart_contents_count();
 ?>
 
-<header class="header">
+<header class="header container">
   <a href="/"><img src="<?php echo $img_url; ?>/handel.svg" alt="Handel"></a>
 
   <div class="busca">
     <form action="<?php bloginfo('url'); ?>/loja" method="GET">
-      <input type="text" name="s" placeholder="Buscar" value="<?php the_search_query(); ?>">
-      <input type="text" name="post_type" value="product" class="hidden">
+      <input type="text" id="s" placeholder="Buscar" value="<?php the_search_query(); ?>">
+      <input type="text" id="post_type" value="product" class="hidden">
       <input type="submit" value="Buscar" id="searchbutton">
     </form>
   </div>
@@ -38,3 +37,11 @@
     </a>
   </nav>
 </header>
+
+<section>
+  <?php wp_nav_menu([
+    'menu' => 'categorias',
+    'container' => 'nav',
+    'container_class' => 'menu-categorias'
+  ]) ?>
+</section>
