@@ -21,7 +21,7 @@
 
   <div class="busca">
     <form action="<?php bloginfo('url'); ?>/loja" method="GET">
-      <input type="text" id="s" placeholder="Buscar" value="<?php the_search_query(); ?>">
+      <input type="text" id="s" name="s" placeholder="Buscar" value="<?php the_search_query(); ?>">
       <input type="text" id="post_type" value="product" class="hidden">
       <input type="submit" value="Buscar" id="searchbutton">
     </form>

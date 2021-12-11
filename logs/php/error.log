@@ -60,3 +60,553 @@ Stack trace:
 #3 /home/matheus/repositorio/handel/app/public/index.php(17): require('/home/matheus/r...')
 #4 {main}
   thrown in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php on line 17
+[11-Dec-2021 12:54:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php on line 27
+[11-Dec-2021 12:54:21 UTC] PHP Stack trace:
+[11-Dec-2021 12:54:21 UTC] PHP   1. {main}() /home/matheus/repositorio/handel/app/public/index.php:0
+[11-Dec-2021 12:54:21 UTC] PHP   2. require() /home/matheus/repositorio/handel/app/public/index.php:17
+[11-Dec-2021 12:54:21 UTC] PHP   3. require_once() /home/matheus/repositorio/handel/app/public/wp-blog-header.php:19
+[11-Dec-2021 12:54:21 UTC] PHP   4. include() /home/matheus/repositorio/handel/app/public/wp-includes/template-loader.php:106
+[11-Dec-2021 12:54:21 UTC] PHP   5. format_products() /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php:40
+[11-Dec-2021 12:54:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php on line 27
+[11-Dec-2021 12:54:21 UTC] PHP Stack trace:
+[11-Dec-2021 12:54:21 UTC] PHP   1. {main}() /home/matheus/repositorio/handel/app/public/index.php:0
+[11-Dec-2021 12:54:21 UTC] PHP   2. require() /home/matheus/repositorio/handel/app/public/index.php:17
+[11-Dec-2021 12:54:21 UTC] PHP   3. require_once() /home/matheus/repositorio/handel/app/public/wp-blog-header.php:19
+[11-Dec-2021 12:54:21 UTC] PHP   4. include() /home/matheus/repositorio/handel/app/public/wp-includes/template-loader.php:106
+[11-Dec-2021 12:54:21 UTC] PHP   5. format_products() /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php:41
+[11-Dec-2021 12:55:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php on line 27
+[11-Dec-2021 12:55:05 UTC] PHP Stack trace:
+[11-Dec-2021 12:55:05 UTC] PHP   1. {main}() /home/matheus/repositorio/handel/app/public/index.php:0
+[11-Dec-2021 12:55:05 UTC] PHP   2. require() /home/matheus/repositorio/handel/app/public/index.php:17
+[11-Dec-2021 12:55:05 UTC] PHP   3. require_once() /home/matheus/repositorio/handel/app/public/wp-blog-header.php:19
+[11-Dec-2021 12:55:05 UTC] PHP   4. include() /home/matheus/repositorio/handel/app/public/wp-includes/template-loader.php:106
+[11-Dec-2021 12:55:05 UTC] PHP   5. format_products() /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php:40
+[11-Dec-2021 12:55:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php on line 27
+[11-Dec-2021 12:55:05 UTC] PHP Stack trace:
+[11-Dec-2021 12:55:05 UTC] PHP   1. {main}() /home/matheus/repositorio/handel/app/public/index.php:0
+[11-Dec-2021 12:55:05 UTC] PHP   2. require() /home/matheus/repositorio/handel/app/public/index.php:17
+[11-Dec-2021 12:55:05 UTC] PHP   3. require_once() /home/matheus/repositorio/handel/app/public/wp-blog-header.php:19
+[11-Dec-2021 12:55:05 UTC] PHP   4. include() /home/matheus/repositorio/handel/app/public/wp-includes/template-loader.php:106
+[11-Dec-2021 12:55:05 UTC] PHP   5. format_products() /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php:41
+[11-Dec-2021 12:57:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php on line 7
+[11-Dec-2021 12:57:15 UTC] PHP Stack trace:
+[11-Dec-2021 12:57:15 UTC] PHP   1. {main}() /home/matheus/repositorio/handel/app/public/index.php:0
+[11-Dec-2021 12:57:15 UTC] PHP   2. require() /home/matheus/repositorio/handel/app/public/index.php:17
+[11-Dec-2021 12:57:15 UTC] PHP   3. require_once() /home/matheus/repositorio/handel/app/public/wp-blog-header.php:19
+[11-Dec-2021 12:57:15 UTC] PHP   4. include() /home/matheus/repositorio/handel/app/public/wp-includes/template-loader.php:106
+[11-Dec-2021 12:57:15 UTC] PHP   5. format_products() /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php:38
+[11-Dec-2021 12:57:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php on line 7
+[11-Dec-2021 12:57:15 UTC] PHP Stack trace:
+[11-Dec-2021 12:57:15 UTC] PHP   1. {main}() /home/matheus/repositorio/handel/app/public/index.php:0
+[11-Dec-2021 12:57:15 UTC] PHP   2. require() /home/matheus/repositorio/handel/app/public/index.php:17
+[11-Dec-2021 12:57:15 UTC] PHP   3. require_once() /home/matheus/repositorio/handel/app/public/wp-blog-header.php:19
+[11-Dec-2021 12:57:15 UTC] PHP   4. include() /home/matheus/repositorio/handel/app/public/wp-includes/template-loader.php:106
+[11-Dec-2021 12:57:15 UTC] PHP   5. format_products() /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php:39
+[11-Dec-2021 12:57:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php on line 7
+[11-Dec-2021 12:57:17 UTC] PHP Stack trace:
+[11-Dec-2021 12:57:17 UTC] PHP   1. {main}() /home/matheus/repositorio/handel/app/public/index.php:0
+[11-Dec-2021 12:57:17 UTC] PHP   2. require() /home/matheus/repositorio/handel/app/public/index.php:17
+[11-Dec-2021 12:57:17 UTC] PHP   3. require_once() /home/matheus/repositorio/handel/app/public/wp-blog-header.php:19
+[11-Dec-2021 12:57:17 UTC] PHP   4. include() /home/matheus/repositorio/handel/app/public/wp-includes/template-loader.php:106
+[11-Dec-2021 12:57:17 UTC] PHP   5. format_products() /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php:38
+[11-Dec-2021 12:57:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php on line 7
+[11-Dec-2021 12:57:17 UTC] PHP Stack trace:
+[11-Dec-2021 12:57:17 UTC] PHP   1. {main}() /home/matheus/repositorio/handel/app/public/index.php:0
+[11-Dec-2021 12:57:17 UTC] PHP   2. require() /home/matheus/repositorio/handel/app/public/index.php:17
+[11-Dec-2021 12:57:17 UTC] PHP   3. require_once() /home/matheus/repositorio/handel/app/public/wp-blog-header.php:19
+[11-Dec-2021 12:57:17 UTC] PHP   4. include() /home/matheus/repositorio/handel/app/public/wp-includes/template-loader.php:106
+[11-Dec-2021 12:57:17 UTC] PHP   5. format_products() /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php:39
+[11-Dec-2021 12:57:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php on line 7
+[11-Dec-2021 12:57:18 UTC] PHP Stack trace:
+[11-Dec-2021 12:57:18 UTC] PHP   1. {main}() /home/matheus/repositorio/handel/app/public/index.php:0
+[11-Dec-2021 12:57:18 UTC] PHP   2. require() /home/matheus/repositorio/handel/app/public/index.php:17
+[11-Dec-2021 12:57:18 UTC] PHP   3. require_once() /home/matheus/repositorio/handel/app/public/wp-blog-header.php:19
+[11-Dec-2021 12:57:18 UTC] PHP   4. include() /home/matheus/repositorio/handel/app/public/wp-includes/template-loader.php:106
+[11-Dec-2021 12:57:18 UTC] PHP   5. format_products() /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php:38
+[11-Dec-2021 12:57:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php on line 7
+[11-Dec-2021 12:57:18 UTC] PHP Stack trace:
+[11-Dec-2021 12:57:18 UTC] PHP   1. {main}() /home/matheus/repositorio/handel/app/public/index.php:0
+[11-Dec-2021 12:57:18 UTC] PHP   2. require() /home/matheus/repositorio/handel/app/public/index.php:17
+[11-Dec-2021 12:57:18 UTC] PHP   3. require_once() /home/matheus/repositorio/handel/app/public/wp-blog-header.php:19
+[11-Dec-2021 12:57:18 UTC] PHP   4. include() /home/matheus/repositorio/handel/app/public/wp-includes/template-loader.php:106
+[11-Dec-2021 12:57:18 UTC] PHP   5. format_products() /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php:39
+[11-Dec-2021 12:57:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php on line 7
+[11-Dec-2021 12:57:18 UTC] PHP Stack trace:
+[11-Dec-2021 12:57:18 UTC] PHP   1. {main}() /home/matheus/repositorio/handel/app/public/index.php:0
+[11-Dec-2021 12:57:18 UTC] PHP   2. require() /home/matheus/repositorio/handel/app/public/index.php:17
+[11-Dec-2021 12:57:18 UTC] PHP   3. require_once() /home/matheus/repositorio/handel/app/public/wp-blog-header.php:19
+[11-Dec-2021 12:57:18 UTC] PHP   4. include() /home/matheus/repositorio/handel/app/public/wp-includes/template-loader.php:106
+[11-Dec-2021 12:57:18 UTC] PHP   5. format_products() /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php:38
+[11-Dec-2021 12:57:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php on line 7
+[11-Dec-2021 12:57:18 UTC] PHP Stack trace:
+[11-Dec-2021 12:57:18 UTC] PHP   1. {main}() /home/matheus/repositorio/handel/app/public/index.php:0
+[11-Dec-2021 12:57:18 UTC] PHP   2. require() /home/matheus/repositorio/handel/app/public/index.php:17
+[11-Dec-2021 12:57:18 UTC] PHP   3. require_once() /home/matheus/repositorio/handel/app/public/wp-blog-header.php:19
+[11-Dec-2021 12:57:18 UTC] PHP   4. include() /home/matheus/repositorio/handel/app/public/wp-includes/template-loader.php:106
+[11-Dec-2021 12:57:18 UTC] PHP   5. format_products() /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php:39
+[11-Dec-2021 12:58:37 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function format_products(), 1 passed in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php on line 37 and exactly 2 expected in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php:5
+Stack trace:
+#0 /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php(37): format_products(Array)
+#1 /home/matheus/repositorio/handel/app/public/wp-includes/template-loader.php(106): include('/home/matheus/r...')
+#2 /home/matheus/repositorio/handel/app/public/wp-blog-header.php(19): require_once('/home/matheus/r...')
+#3 /home/matheus/repositorio/handel/app/public/index.php(17): require('/home/matheus/r...')
+#4 {main}
+  thrown in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php on line 5
+[11-Dec-2021 12:59:17 UTC] PHP Parse error:  syntax error, unexpected '$products_slide' (T_VARIABLE) in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php on line 9
+[11-Dec-2021 12:59:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php on line 7
+[11-Dec-2021 12:59:25 UTC] PHP Stack trace:
+[11-Dec-2021 12:59:25 UTC] PHP   1. {main}() /home/matheus/repositorio/handel/app/public/index.php:0
+[11-Dec-2021 12:59:25 UTC] PHP   2. require() /home/matheus/repositorio/handel/app/public/index.php:17
+[11-Dec-2021 12:59:25 UTC] PHP   3. require_once() /home/matheus/repositorio/handel/app/public/wp-blog-header.php:19
+[11-Dec-2021 12:59:25 UTC] PHP   4. include() /home/matheus/repositorio/handel/app/public/wp-includes/template-loader.php:106
+[11-Dec-2021 12:59:25 UTC] PHP   5. format_products() /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php:38
+[11-Dec-2021 12:59:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php on line 7
+[11-Dec-2021 12:59:25 UTC] PHP Stack trace:
+[11-Dec-2021 12:59:25 UTC] PHP   1. {main}() /home/matheus/repositorio/handel/app/public/index.php:0
+[11-Dec-2021 12:59:25 UTC] PHP   2. require() /home/matheus/repositorio/handel/app/public/index.php:17
+[11-Dec-2021 12:59:25 UTC] PHP   3. require_once() /home/matheus/repositorio/handel/app/public/wp-blog-header.php:19
+[11-Dec-2021 12:59:25 UTC] PHP   4. include() /home/matheus/repositorio/handel/app/public/wp-includes/template-loader.php:106
+[11-Dec-2021 12:59:25 UTC] PHP   5. format_products() /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php:39
+[11-Dec-2021 13:00:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php on line 7
+[11-Dec-2021 13:00:19 UTC] PHP Stack trace:
+[11-Dec-2021 13:00:19 UTC] PHP   1. {main}() /home/matheus/repositorio/handel/app/public/index.php:0
+[11-Dec-2021 13:00:19 UTC] PHP   2. require() /home/matheus/repositorio/handel/app/public/index.php:17
+[11-Dec-2021 13:00:19 UTC] PHP   3. require_once() /home/matheus/repositorio/handel/app/public/wp-blog-header.php:19
+[11-Dec-2021 13:00:19 UTC] PHP   4. include() /home/matheus/repositorio/handel/app/public/wp-includes/template-loader.php:106
+[11-Dec-2021 13:00:19 UTC] PHP   5. format_products() /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php:38
+[11-Dec-2021 13:00:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php on line 7
+[11-Dec-2021 13:00:19 UTC] PHP Stack trace:
+[11-Dec-2021 13:00:19 UTC] PHP   1. {main}() /home/matheus/repositorio/handel/app/public/index.php:0
+[11-Dec-2021 13:00:19 UTC] PHP   2. require() /home/matheus/repositorio/handel/app/public/index.php:17
+[11-Dec-2021 13:00:19 UTC] PHP   3. require_once() /home/matheus/repositorio/handel/app/public/wp-blog-header.php:19
+[11-Dec-2021 13:00:19 UTC] PHP   4. include() /home/matheus/repositorio/handel/app/public/wp-includes/template-loader.php:106
+[11-Dec-2021 13:00:19 UTC] PHP   5. format_products() /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php:39
+[11-Dec-2021 13:01:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php on line 7
+[11-Dec-2021 13:01:22 UTC] PHP Stack trace:
+[11-Dec-2021 13:01:22 UTC] PHP   1. {main}() /home/matheus/repositorio/handel/app/public/index.php:0
+[11-Dec-2021 13:01:22 UTC] PHP   2. require() /home/matheus/repositorio/handel/app/public/index.php:17
+[11-Dec-2021 13:01:22 UTC] PHP   3. require_once() /home/matheus/repositorio/handel/app/public/wp-blog-header.php:19
+[11-Dec-2021 13:01:22 UTC] PHP   4. include() /home/matheus/repositorio/handel/app/public/wp-includes/template-loader.php:106
+[11-Dec-2021 13:01:22 UTC] PHP   5. format_products() /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php:38
+[11-Dec-2021 13:01:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php on line 7
+[11-Dec-2021 13:01:22 UTC] PHP Stack trace:
+[11-Dec-2021 13:01:22 UTC] PHP   1. {main}() /home/matheus/repositorio/handel/app/public/index.php:0
+[11-Dec-2021 13:01:22 UTC] PHP   2. require() /home/matheus/repositorio/handel/app/public/index.php:17
+[11-Dec-2021 13:01:22 UTC] PHP   3. require_once() /home/matheus/repositorio/handel/app/public/wp-blog-header.php:19
+[11-Dec-2021 13:01:22 UTC] PHP   4. include() /home/matheus/repositorio/handel/app/public/wp-includes/template-loader.php:106
+[11-Dec-2021 13:01:22 UTC] PHP   5. format_products() /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php:39
+[11-Dec-2021 13:01:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php on line 7
+[11-Dec-2021 13:01:23 UTC] PHP Stack trace:
+[11-Dec-2021 13:01:23 UTC] PHP   1. {main}() /home/matheus/repositorio/handel/app/public/index.php:0
+[11-Dec-2021 13:01:23 UTC] PHP   2. require() /home/matheus/repositorio/handel/app/public/index.php:17
+[11-Dec-2021 13:01:23 UTC] PHP   3. require_once() /home/matheus/repositorio/handel/app/public/wp-blog-header.php:19
+[11-Dec-2021 13:01:23 UTC] PHP   4. include() /home/matheus/repositorio/handel/app/public/wp-includes/template-loader.php:106
+[11-Dec-2021 13:01:23 UTC] PHP   5. format_products() /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php:38
+[11-Dec-2021 13:01:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php on line 7
+[11-Dec-2021 13:01:23 UTC] PHP Stack trace:
+[11-Dec-2021 13:01:23 UTC] PHP   1. {main}() /home/matheus/repositorio/handel/app/public/index.php:0
+[11-Dec-2021 13:01:23 UTC] PHP   2. require() /home/matheus/repositorio/handel/app/public/index.php:17
+[11-Dec-2021 13:01:23 UTC] PHP   3. require_once() /home/matheus/repositorio/handel/app/public/wp-blog-header.php:19
+[11-Dec-2021 13:01:23 UTC] PHP   4. include() /home/matheus/repositorio/handel/app/public/wp-includes/template-loader.php:106
+[11-Dec-2021 13:01:23 UTC] PHP   5. format_products() /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php:39
+[11-Dec-2021 13:03:42 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php on line 75
+[11-Dec-2021 13:03:53 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php on line 75
+[11-Dec-2021 13:03:54 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php on line 75
+[11-Dec-2021 13:03:54 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php on line 75
+[11-Dec-2021 13:03:54 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php on line 75
+[11-Dec-2021 13:04:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php on line 7
+[11-Dec-2021 13:04:12 UTC] PHP Stack trace:
+[11-Dec-2021 13:04:12 UTC] PHP   1. {main}() /home/matheus/repositorio/handel/app/public/index.php:0
+[11-Dec-2021 13:04:12 UTC] PHP   2. require() /home/matheus/repositorio/handel/app/public/index.php:17
+[11-Dec-2021 13:04:12 UTC] PHP   3. require_once() /home/matheus/repositorio/handel/app/public/wp-blog-header.php:19
+[11-Dec-2021 13:04:12 UTC] PHP   4. include() /home/matheus/repositorio/handel/app/public/wp-includes/template-loader.php:106
+[11-Dec-2021 13:04:12 UTC] PHP   5. format_products() /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php:38
+[11-Dec-2021 13:04:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php on line 7
+[11-Dec-2021 13:04:12 UTC] PHP Stack trace:
+[11-Dec-2021 13:04:12 UTC] PHP   1. {main}() /home/matheus/repositorio/handel/app/public/index.php:0
+[11-Dec-2021 13:04:12 UTC] PHP   2. require() /home/matheus/repositorio/handel/app/public/index.php:17
+[11-Dec-2021 13:04:12 UTC] PHP   3. require_once() /home/matheus/repositorio/handel/app/public/wp-blog-header.php:19
+[11-Dec-2021 13:04:12 UTC] PHP   4. include() /home/matheus/repositorio/handel/app/public/wp-includes/template-loader.php:106
+[11-Dec-2021 13:04:12 UTC] PHP   5. format_products() /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php:39
+[11-Dec-2021 13:04:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php on line 69
+[11-Dec-2021 13:04:12 UTC] PHP Stack trace:
+[11-Dec-2021 13:04:12 UTC] PHP   1. {main}() /home/matheus/repositorio/handel/app/public/index.php:0
+[11-Dec-2021 13:04:12 UTC] PHP   2. require() /home/matheus/repositorio/handel/app/public/index.php:17
+[11-Dec-2021 13:04:12 UTC] PHP   3. require_once() /home/matheus/repositorio/handel/app/public/wp-blog-header.php:19
+[11-Dec-2021 13:04:12 UTC] PHP   4. include() /home/matheus/repositorio/handel/app/public/wp-includes/template-loader.php:106
+[11-Dec-2021 13:05:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php on line 7
+[11-Dec-2021 13:05:34 UTC] PHP Stack trace:
+[11-Dec-2021 13:05:34 UTC] PHP   1. {main}() /home/matheus/repositorio/handel/app/public/index.php:0
+[11-Dec-2021 13:05:34 UTC] PHP   2. require() /home/matheus/repositorio/handel/app/public/index.php:17
+[11-Dec-2021 13:05:34 UTC] PHP   3. require_once() /home/matheus/repositorio/handel/app/public/wp-blog-header.php:19
+[11-Dec-2021 13:05:34 UTC] PHP   4. include() /home/matheus/repositorio/handel/app/public/wp-includes/template-loader.php:106
+[11-Dec-2021 13:05:34 UTC] PHP   5. format_products() /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php:38
+[11-Dec-2021 13:05:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php on line 7
+[11-Dec-2021 13:05:34 UTC] PHP Stack trace:
+[11-Dec-2021 13:05:34 UTC] PHP   1. {main}() /home/matheus/repositorio/handel/app/public/index.php:0
+[11-Dec-2021 13:05:34 UTC] PHP   2. require() /home/matheus/repositorio/handel/app/public/index.php:17
+[11-Dec-2021 13:05:34 UTC] PHP   3. require_once() /home/matheus/repositorio/handel/app/public/wp-blog-header.php:19
+[11-Dec-2021 13:05:34 UTC] PHP   4. include() /home/matheus/repositorio/handel/app/public/wp-includes/template-loader.php:106
+[11-Dec-2021 13:05:34 UTC] PHP   5. format_products() /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php:39
+[11-Dec-2021 13:05:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php on line 69
+[11-Dec-2021 13:05:34 UTC] PHP Stack trace:
+[11-Dec-2021 13:05:34 UTC] PHP   1. {main}() /home/matheus/repositorio/handel/app/public/index.php:0
+[11-Dec-2021 13:05:34 UTC] PHP   2. require() /home/matheus/repositorio/handel/app/public/index.php:17
+[11-Dec-2021 13:05:34 UTC] PHP   3. require_once() /home/matheus/repositorio/handel/app/public/wp-blog-header.php:19
+[11-Dec-2021 13:05:34 UTC] PHP   4. include() /home/matheus/repositorio/handel/app/public/wp-includes/template-loader.php:106
+[11-Dec-2021 13:05:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php on line 7
+[11-Dec-2021 13:05:35 UTC] PHP Stack trace:
+[11-Dec-2021 13:05:35 UTC] PHP   1. {main}() /home/matheus/repositorio/handel/app/public/index.php:0
+[11-Dec-2021 13:05:35 UTC] PHP   2. require() /home/matheus/repositorio/handel/app/public/index.php:17
+[11-Dec-2021 13:05:35 UTC] PHP   3. require_once() /home/matheus/repositorio/handel/app/public/wp-blog-header.php:19
+[11-Dec-2021 13:05:35 UTC] PHP   4. include() /home/matheus/repositorio/handel/app/public/wp-includes/template-loader.php:106
+[11-Dec-2021 13:05:35 UTC] PHP   5. format_products() /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php:38
+[11-Dec-2021 13:05:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php on line 7
+[11-Dec-2021 13:05:35 UTC] PHP Stack trace:
+[11-Dec-2021 13:05:35 UTC] PHP   1. {main}() /home/matheus/repositorio/handel/app/public/index.php:0
+[11-Dec-2021 13:05:35 UTC] PHP   2. require() /home/matheus/repositorio/handel/app/public/index.php:17
+[11-Dec-2021 13:05:35 UTC] PHP   3. require_once() /home/matheus/repositorio/handel/app/public/wp-blog-header.php:19
+[11-Dec-2021 13:05:35 UTC] PHP   4. include() /home/matheus/repositorio/handel/app/public/wp-includes/template-loader.php:106
+[11-Dec-2021 13:05:35 UTC] PHP   5. format_products() /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php:39
+[11-Dec-2021 13:05:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php on line 69
+[11-Dec-2021 13:05:35 UTC] PHP Stack trace:
+[11-Dec-2021 13:05:35 UTC] PHP   1. {main}() /home/matheus/repositorio/handel/app/public/index.php:0
+[11-Dec-2021 13:05:35 UTC] PHP   2. require() /home/matheus/repositorio/handel/app/public/index.php:17
+[11-Dec-2021 13:05:35 UTC] PHP   3. require_once() /home/matheus/repositorio/handel/app/public/wp-blog-header.php:19
+[11-Dec-2021 13:05:35 UTC] PHP   4. include() /home/matheus/repositorio/handel/app/public/wp-includes/template-loader.php:106
+[11-Dec-2021 13:06:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php on line 7
+[11-Dec-2021 13:06:05 UTC] PHP Stack trace:
+[11-Dec-2021 13:06:05 UTC] PHP   1. {main}() /home/matheus/repositorio/handel/app/public/index.php:0
+[11-Dec-2021 13:06:05 UTC] PHP   2. require() /home/matheus/repositorio/handel/app/public/index.php:17
+[11-Dec-2021 13:06:05 UTC] PHP   3. require_once() /home/matheus/repositorio/handel/app/public/wp-blog-header.php:19
+[11-Dec-2021 13:06:05 UTC] PHP   4. include() /home/matheus/repositorio/handel/app/public/wp-includes/template-loader.php:106
+[11-Dec-2021 13:06:05 UTC] PHP   5. format_products() /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php:38
+[11-Dec-2021 13:06:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php on line 7
+[11-Dec-2021 13:06:05 UTC] PHP Stack trace:
+[11-Dec-2021 13:06:05 UTC] PHP   1. {main}() /home/matheus/repositorio/handel/app/public/index.php:0
+[11-Dec-2021 13:06:05 UTC] PHP   2. require() /home/matheus/repositorio/handel/app/public/index.php:17
+[11-Dec-2021 13:06:05 UTC] PHP   3. require_once() /home/matheus/repositorio/handel/app/public/wp-blog-header.php:19
+[11-Dec-2021 13:06:05 UTC] PHP   4. include() /home/matheus/repositorio/handel/app/public/wp-includes/template-loader.php:106
+[11-Dec-2021 13:06:05 UTC] PHP   5. format_products() /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php:39
+[11-Dec-2021 13:06:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php on line 53
+[11-Dec-2021 13:06:05 UTC] PHP Stack trace:
+[11-Dec-2021 13:06:05 UTC] PHP   1. {main}() /home/matheus/repositorio/handel/app/public/index.php:0
+[11-Dec-2021 13:06:05 UTC] PHP   2. require() /home/matheus/repositorio/handel/app/public/index.php:17
+[11-Dec-2021 13:06:05 UTC] PHP   3. require_once() /home/matheus/repositorio/handel/app/public/wp-blog-header.php:19
+[11-Dec-2021 13:06:05 UTC] PHP   4. include() /home/matheus/repositorio/handel/app/public/wp-includes/template-loader.php:106
+[11-Dec-2021 13:06:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php on line 69
+[11-Dec-2021 13:06:05 UTC] PHP Stack trace:
+[11-Dec-2021 13:06:05 UTC] PHP   1. {main}() /home/matheus/repositorio/handel/app/public/index.php:0
+[11-Dec-2021 13:06:05 UTC] PHP   2. require() /home/matheus/repositorio/handel/app/public/index.php:17
+[11-Dec-2021 13:06:05 UTC] PHP   3. require_once() /home/matheus/repositorio/handel/app/public/wp-blog-header.php:19
+[11-Dec-2021 13:06:05 UTC] PHP   4. include() /home/matheus/repositorio/handel/app/public/wp-includes/template-loader.php:106
+[11-Dec-2021 13:06:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php on line 7
+[11-Dec-2021 13:06:13 UTC] PHP Stack trace:
+[11-Dec-2021 13:06:13 UTC] PHP   1. {main}() /home/matheus/repositorio/handel/app/public/index.php:0
+[11-Dec-2021 13:06:13 UTC] PHP   2. require() /home/matheus/repositorio/handel/app/public/index.php:17
+[11-Dec-2021 13:06:13 UTC] PHP   3. require_once() /home/matheus/repositorio/handel/app/public/wp-blog-header.php:19
+[11-Dec-2021 13:06:13 UTC] PHP   4. include() /home/matheus/repositorio/handel/app/public/wp-includes/template-loader.php:106
+[11-Dec-2021 13:06:13 UTC] PHP   5. format_products() /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php:38
+[11-Dec-2021 13:06:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php on line 7
+[11-Dec-2021 13:06:13 UTC] PHP Stack trace:
+[11-Dec-2021 13:06:13 UTC] PHP   1. {main}() /home/matheus/repositorio/handel/app/public/index.php:0
+[11-Dec-2021 13:06:13 UTC] PHP   2. require() /home/matheus/repositorio/handel/app/public/index.php:17
+[11-Dec-2021 13:06:13 UTC] PHP   3. require_once() /home/matheus/repositorio/handel/app/public/wp-blog-header.php:19
+[11-Dec-2021 13:06:13 UTC] PHP   4. include() /home/matheus/repositorio/handel/app/public/wp-includes/template-loader.php:106
+[11-Dec-2021 13:06:13 UTC] PHP   5. format_products() /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php:39
+[11-Dec-2021 13:06:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php on line 69
+[11-Dec-2021 13:06:13 UTC] PHP Stack trace:
+[11-Dec-2021 13:06:13 UTC] PHP   1. {main}() /home/matheus/repositorio/handel/app/public/index.php:0
+[11-Dec-2021 13:06:13 UTC] PHP   2. require() /home/matheus/repositorio/handel/app/public/index.php:17
+[11-Dec-2021 13:06:13 UTC] PHP   3. require_once() /home/matheus/repositorio/handel/app/public/wp-blog-header.php:19
+[11-Dec-2021 13:06:13 UTC] PHP   4. include() /home/matheus/repositorio/handel/app/public/wp-includes/template-loader.php:106
+[11-Dec-2021 13:07:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php on line 31
+[11-Dec-2021 13:07:30 UTC] PHP Stack trace:
+[11-Dec-2021 13:07:30 UTC] PHP   1. {main}() /home/matheus/repositorio/handel/app/public/index.php:0
+[11-Dec-2021 13:07:30 UTC] PHP   2. require() /home/matheus/repositorio/handel/app/public/index.php:17
+[11-Dec-2021 13:07:30 UTC] PHP   3. require_once() /home/matheus/repositorio/handel/app/public/wp-blog-header.php:19
+[11-Dec-2021 13:07:30 UTC] PHP   4. include() /home/matheus/repositorio/handel/app/public/wp-includes/template-loader.php:106
+[11-Dec-2021 13:07:30 UTC] PHP   5. format_products() /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php:25
+[11-Dec-2021 13:07:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php on line 31
+[11-Dec-2021 13:07:30 UTC] PHP Stack trace:
+[11-Dec-2021 13:07:30 UTC] PHP   1. {main}() /home/matheus/repositorio/handel/app/public/index.php:0
+[11-Dec-2021 13:07:30 UTC] PHP   2. require() /home/matheus/repositorio/handel/app/public/index.php:17
+[11-Dec-2021 13:07:30 UTC] PHP   3. require_once() /home/matheus/repositorio/handel/app/public/wp-blog-header.php:19
+[11-Dec-2021 13:07:30 UTC] PHP   4. include() /home/matheus/repositorio/handel/app/public/wp-includes/template-loader.php:106
+[11-Dec-2021 13:07:30 UTC] PHP   5. format_products() /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php:26
+[11-Dec-2021 13:07:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php on line 69
+[11-Dec-2021 13:07:30 UTC] PHP Stack trace:
+[11-Dec-2021 13:07:30 UTC] PHP   1. {main}() /home/matheus/repositorio/handel/app/public/index.php:0
+[11-Dec-2021 13:07:30 UTC] PHP   2. require() /home/matheus/repositorio/handel/app/public/index.php:17
+[11-Dec-2021 13:07:30 UTC] PHP   3. require_once() /home/matheus/repositorio/handel/app/public/wp-blog-header.php:19
+[11-Dec-2021 13:07:30 UTC] PHP   4. include() /home/matheus/repositorio/handel/app/public/wp-includes/template-loader.php:106
+[11-Dec-2021 13:07:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php on line 31
+[11-Dec-2021 13:07:46 UTC] PHP Stack trace:
+[11-Dec-2021 13:07:46 UTC] PHP   1. {main}() /home/matheus/repositorio/handel/app/public/index.php:0
+[11-Dec-2021 13:07:46 UTC] PHP   2. require() /home/matheus/repositorio/handel/app/public/index.php:17
+[11-Dec-2021 13:07:46 UTC] PHP   3. require_once() /home/matheus/repositorio/handel/app/public/wp-blog-header.php:19
+[11-Dec-2021 13:07:46 UTC] PHP   4. include() /home/matheus/repositorio/handel/app/public/wp-includes/template-loader.php:106
+[11-Dec-2021 13:07:46 UTC] PHP   5. format_products() /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php:25
+[11-Dec-2021 13:07:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php on line 31
+[11-Dec-2021 13:07:46 UTC] PHP Stack trace:
+[11-Dec-2021 13:07:46 UTC] PHP   1. {main}() /home/matheus/repositorio/handel/app/public/index.php:0
+[11-Dec-2021 13:07:46 UTC] PHP   2. require() /home/matheus/repositorio/handel/app/public/index.php:17
+[11-Dec-2021 13:07:46 UTC] PHP   3. require_once() /home/matheus/repositorio/handel/app/public/wp-blog-header.php:19
+[11-Dec-2021 13:07:46 UTC] PHP   4. include() /home/matheus/repositorio/handel/app/public/wp-includes/template-loader.php:106
+[11-Dec-2021 13:07:46 UTC] PHP   5. format_products() /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php:26
+[11-Dec-2021 13:07:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php on line 69
+[11-Dec-2021 13:07:46 UTC] PHP Stack trace:
+[11-Dec-2021 13:07:46 UTC] PHP   1. {main}() /home/matheus/repositorio/handel/app/public/index.php:0
+[11-Dec-2021 13:07:46 UTC] PHP   2. require() /home/matheus/repositorio/handel/app/public/index.php:17
+[11-Dec-2021 13:07:46 UTC] PHP   3. require_once() /home/matheus/repositorio/handel/app/public/wp-blog-header.php:19
+[11-Dec-2021 13:07:46 UTC] PHP   4. include() /home/matheus/repositorio/handel/app/public/wp-includes/template-loader.php:106
+[11-Dec-2021 13:08:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php on line 31
+[11-Dec-2021 13:08:39 UTC] PHP Stack trace:
+[11-Dec-2021 13:08:39 UTC] PHP   1. {main}() /home/matheus/repositorio/handel/app/public/index.php:0
+[11-Dec-2021 13:08:39 UTC] PHP   2. require() /home/matheus/repositorio/handel/app/public/index.php:17
+[11-Dec-2021 13:08:39 UTC] PHP   3. require_once() /home/matheus/repositorio/handel/app/public/wp-blog-header.php:19
+[11-Dec-2021 13:08:39 UTC] PHP   4. include() /home/matheus/repositorio/handel/app/public/wp-includes/template-loader.php:106
+[11-Dec-2021 13:08:39 UTC] PHP   5. format_products() /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php:25
+[11-Dec-2021 13:08:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php on line 31
+[11-Dec-2021 13:08:39 UTC] PHP Stack trace:
+[11-Dec-2021 13:08:39 UTC] PHP   1. {main}() /home/matheus/repositorio/handel/app/public/index.php:0
+[11-Dec-2021 13:08:39 UTC] PHP   2. require() /home/matheus/repositorio/handel/app/public/index.php:17
+[11-Dec-2021 13:08:39 UTC] PHP   3. require_once() /home/matheus/repositorio/handel/app/public/wp-blog-header.php:19
+[11-Dec-2021 13:08:39 UTC] PHP   4. include() /home/matheus/repositorio/handel/app/public/wp-includes/template-loader.php:106
+[11-Dec-2021 13:08:39 UTC] PHP   5. format_products() /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php:26
+[11-Dec-2021 13:08:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php on line 69
+[11-Dec-2021 13:08:39 UTC] PHP Stack trace:
+[11-Dec-2021 13:08:39 UTC] PHP   1. {main}() /home/matheus/repositorio/handel/app/public/index.php:0
+[11-Dec-2021 13:08:39 UTC] PHP   2. require() /home/matheus/repositorio/handel/app/public/index.php:17
+[11-Dec-2021 13:08:39 UTC] PHP   3. require_once() /home/matheus/repositorio/handel/app/public/wp-blog-header.php:19
+[11-Dec-2021 13:08:39 UTC] PHP   4. include() /home/matheus/repositorio/handel/app/public/wp-includes/template-loader.php:106
+[11-Dec-2021 13:10:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php on line 7
+[11-Dec-2021 13:10:40 UTC] PHP Stack trace:
+[11-Dec-2021 13:10:40 UTC] PHP   1. {main}() /home/matheus/repositorio/handel/app/public/index.php:0
+[11-Dec-2021 13:10:40 UTC] PHP   2. require() /home/matheus/repositorio/handel/app/public/index.php:17
+[11-Dec-2021 13:10:40 UTC] PHP   3. require_once() /home/matheus/repositorio/handel/app/public/wp-blog-header.php:19
+[11-Dec-2021 13:10:40 UTC] PHP   4. include() /home/matheus/repositorio/handel/app/public/wp-includes/template-loader.php:106
+[11-Dec-2021 13:10:40 UTC] PHP   5. format_products() /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php:38
+[11-Dec-2021 13:10:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php on line 7
+[11-Dec-2021 13:10:40 UTC] PHP Stack trace:
+[11-Dec-2021 13:10:40 UTC] PHP   1. {main}() /home/matheus/repositorio/handel/app/public/index.php:0
+[11-Dec-2021 13:10:40 UTC] PHP   2. require() /home/matheus/repositorio/handel/app/public/index.php:17
+[11-Dec-2021 13:10:40 UTC] PHP   3. require_once() /home/matheus/repositorio/handel/app/public/wp-blog-header.php:19
+[11-Dec-2021 13:10:40 UTC] PHP   4. include() /home/matheus/repositorio/handel/app/public/wp-includes/template-loader.php:106
+[11-Dec-2021 13:10:40 UTC] PHP   5. format_products() /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php:39
+[11-Dec-2021 13:10:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php on line 70
+[11-Dec-2021 13:10:40 UTC] PHP Stack trace:
+[11-Dec-2021 13:10:40 UTC] PHP   1. {main}() /home/matheus/repositorio/handel/app/public/index.php:0
+[11-Dec-2021 13:10:40 UTC] PHP   2. require() /home/matheus/repositorio/handel/app/public/index.php:17
+[11-Dec-2021 13:10:40 UTC] PHP   3. require_once() /home/matheus/repositorio/handel/app/public/wp-blog-header.php:19
+[11-Dec-2021 13:10:40 UTC] PHP   4. include() /home/matheus/repositorio/handel/app/public/wp-includes/template-loader.php:106
+[11-Dec-2021 13:10:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php on line 7
+[11-Dec-2021 13:10:41 UTC] PHP Stack trace:
+[11-Dec-2021 13:10:41 UTC] PHP   1. {main}() /home/matheus/repositorio/handel/app/public/index.php:0
+[11-Dec-2021 13:10:41 UTC] PHP   2. require() /home/matheus/repositorio/handel/app/public/index.php:17
+[11-Dec-2021 13:10:41 UTC] PHP   3. require_once() /home/matheus/repositorio/handel/app/public/wp-blog-header.php:19
+[11-Dec-2021 13:10:41 UTC] PHP   4. include() /home/matheus/repositorio/handel/app/public/wp-includes/template-loader.php:106
+[11-Dec-2021 13:10:41 UTC] PHP   5. format_products() /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php:38
+[11-Dec-2021 13:10:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php on line 7
+[11-Dec-2021 13:10:41 UTC] PHP Stack trace:
+[11-Dec-2021 13:10:41 UTC] PHP   1. {main}() /home/matheus/repositorio/handel/app/public/index.php:0
+[11-Dec-2021 13:10:41 UTC] PHP   2. require() /home/matheus/repositorio/handel/app/public/index.php:17
+[11-Dec-2021 13:10:41 UTC] PHP   3. require_once() /home/matheus/repositorio/handel/app/public/wp-blog-header.php:19
+[11-Dec-2021 13:10:41 UTC] PHP   4. include() /home/matheus/repositorio/handel/app/public/wp-includes/template-loader.php:106
+[11-Dec-2021 13:10:41 UTC] PHP   5. format_products() /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php:39
+[11-Dec-2021 13:10:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php on line 70
+[11-Dec-2021 13:10:41 UTC] PHP Stack trace:
+[11-Dec-2021 13:10:41 UTC] PHP   1. {main}() /home/matheus/repositorio/handel/app/public/index.php:0
+[11-Dec-2021 13:10:41 UTC] PHP   2. require() /home/matheus/repositorio/handel/app/public/index.php:17
+[11-Dec-2021 13:10:41 UTC] PHP   3. require_once() /home/matheus/repositorio/handel/app/public/wp-blog-header.php:19
+[11-Dec-2021 13:10:41 UTC] PHP   4. include() /home/matheus/repositorio/handel/app/public/wp-includes/template-loader.php:106
+[11-Dec-2021 13:10:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php on line 7
+[11-Dec-2021 13:10:42 UTC] PHP Stack trace:
+[11-Dec-2021 13:10:42 UTC] PHP   1. {main}() /home/matheus/repositorio/handel/app/public/index.php:0
+[11-Dec-2021 13:10:42 UTC] PHP   2. require() /home/matheus/repositorio/handel/app/public/index.php:17
+[11-Dec-2021 13:10:42 UTC] PHP   3. require_once() /home/matheus/repositorio/handel/app/public/wp-blog-header.php:19
+[11-Dec-2021 13:10:42 UTC] PHP   4. include() /home/matheus/repositorio/handel/app/public/wp-includes/template-loader.php:106
+[11-Dec-2021 13:10:42 UTC] PHP   5. format_products() /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php:38
+[11-Dec-2021 13:10:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php on line 7
+[11-Dec-2021 13:10:42 UTC] PHP Stack trace:
+[11-Dec-2021 13:10:42 UTC] PHP   1. {main}() /home/matheus/repositorio/handel/app/public/index.php:0
+[11-Dec-2021 13:10:42 UTC] PHP   2. require() /home/matheus/repositorio/handel/app/public/index.php:17
+[11-Dec-2021 13:10:42 UTC] PHP   3. require_once() /home/matheus/repositorio/handel/app/public/wp-blog-header.php:19
+[11-Dec-2021 13:10:42 UTC] PHP   4. include() /home/matheus/repositorio/handel/app/public/wp-includes/template-loader.php:106
+[11-Dec-2021 13:10:42 UTC] PHP   5. format_products() /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php:39
+[11-Dec-2021 13:10:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php on line 70
+[11-Dec-2021 13:10:42 UTC] PHP Stack trace:
+[11-Dec-2021 13:10:42 UTC] PHP   1. {main}() /home/matheus/repositorio/handel/app/public/index.php:0
+[11-Dec-2021 13:10:42 UTC] PHP   2. require() /home/matheus/repositorio/handel/app/public/index.php:17
+[11-Dec-2021 13:10:42 UTC] PHP   3. require_once() /home/matheus/repositorio/handel/app/public/wp-blog-header.php:19
+[11-Dec-2021 13:10:42 UTC] PHP   4. include() /home/matheus/repositorio/handel/app/public/wp-includes/template-loader.php:106
+[11-Dec-2021 13:11:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php on line 7
+[11-Dec-2021 13:11:05 UTC] PHP Stack trace:
+[11-Dec-2021 13:11:05 UTC] PHP   1. {main}() /home/matheus/repositorio/handel/app/public/index.php:0
+[11-Dec-2021 13:11:05 UTC] PHP   2. require() /home/matheus/repositorio/handel/app/public/index.php:17
+[11-Dec-2021 13:11:05 UTC] PHP   3. require_once() /home/matheus/repositorio/handel/app/public/wp-blog-header.php:19
+[11-Dec-2021 13:11:05 UTC] PHP   4. include() /home/matheus/repositorio/handel/app/public/wp-includes/template-loader.php:106
+[11-Dec-2021 13:11:05 UTC] PHP   5. format_products() /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php:37
+[11-Dec-2021 13:11:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php on line 7
+[11-Dec-2021 13:11:05 UTC] PHP Stack trace:
+[11-Dec-2021 13:11:05 UTC] PHP   1. {main}() /home/matheus/repositorio/handel/app/public/index.php:0
+[11-Dec-2021 13:11:05 UTC] PHP   2. require() /home/matheus/repositorio/handel/app/public/index.php:17
+[11-Dec-2021 13:11:05 UTC] PHP   3. require_once() /home/matheus/repositorio/handel/app/public/wp-blog-header.php:19
+[11-Dec-2021 13:11:05 UTC] PHP   4. include() /home/matheus/repositorio/handel/app/public/wp-includes/template-loader.php:106
+[11-Dec-2021 13:11:05 UTC] PHP   5. format_products() /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php:38
+[11-Dec-2021 13:11:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php on line 69
+[11-Dec-2021 13:11:05 UTC] PHP Stack trace:
+[11-Dec-2021 13:11:05 UTC] PHP   1. {main}() /home/matheus/repositorio/handel/app/public/index.php:0
+[11-Dec-2021 13:11:05 UTC] PHP   2. require() /home/matheus/repositorio/handel/app/public/index.php:17
+[11-Dec-2021 13:11:05 UTC] PHP   3. require_once() /home/matheus/repositorio/handel/app/public/wp-blog-header.php:19
+[11-Dec-2021 13:11:05 UTC] PHP   4. include() /home/matheus/repositorio/handel/app/public/wp-includes/template-loader.php:106
+[11-Dec-2021 13:11:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php on line 7
+[11-Dec-2021 13:11:26 UTC] PHP Stack trace:
+[11-Dec-2021 13:11:26 UTC] PHP   1. {main}() /home/matheus/repositorio/handel/app/public/index.php:0
+[11-Dec-2021 13:11:26 UTC] PHP   2. require() /home/matheus/repositorio/handel/app/public/index.php:17
+[11-Dec-2021 13:11:26 UTC] PHP   3. require_once() /home/matheus/repositorio/handel/app/public/wp-blog-header.php:19
+[11-Dec-2021 13:11:26 UTC] PHP   4. include() /home/matheus/repositorio/handel/app/public/wp-includes/template-loader.php:106
+[11-Dec-2021 13:11:26 UTC] PHP   5. format_products() /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php:38
+[11-Dec-2021 13:11:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php on line 7
+[11-Dec-2021 13:11:26 UTC] PHP Stack trace:
+[11-Dec-2021 13:11:26 UTC] PHP   1. {main}() /home/matheus/repositorio/handel/app/public/index.php:0
+[11-Dec-2021 13:11:26 UTC] PHP   2. require() /home/matheus/repositorio/handel/app/public/index.php:17
+[11-Dec-2021 13:11:26 UTC] PHP   3. require_once() /home/matheus/repositorio/handel/app/public/wp-blog-header.php:19
+[11-Dec-2021 13:11:26 UTC] PHP   4. include() /home/matheus/repositorio/handel/app/public/wp-includes/template-loader.php:106
+[11-Dec-2021 13:11:26 UTC] PHP   5. format_products() /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php:39
+[11-Dec-2021 13:11:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php on line 70
+[11-Dec-2021 13:11:26 UTC] PHP Stack trace:
+[11-Dec-2021 13:11:26 UTC] PHP   1. {main}() /home/matheus/repositorio/handel/app/public/index.php:0
+[11-Dec-2021 13:11:26 UTC] PHP   2. require() /home/matheus/repositorio/handel/app/public/index.php:17
+[11-Dec-2021 13:11:26 UTC] PHP   3. require_once() /home/matheus/repositorio/handel/app/public/wp-blog-header.php:19
+[11-Dec-2021 13:11:26 UTC] PHP   4. include() /home/matheus/repositorio/handel/app/public/wp-includes/template-loader.php:106
+[11-Dec-2021 13:13:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php on line 7
+[11-Dec-2021 13:13:03 UTC] PHP Stack trace:
+[11-Dec-2021 13:13:03 UTC] PHP   1. {main}() /home/matheus/repositorio/handel/app/public/index.php:0
+[11-Dec-2021 13:13:03 UTC] PHP   2. require() /home/matheus/repositorio/handel/app/public/index.php:17
+[11-Dec-2021 13:13:03 UTC] PHP   3. require_once() /home/matheus/repositorio/handel/app/public/wp-blog-header.php:19
+[11-Dec-2021 13:13:03 UTC] PHP   4. include() /home/matheus/repositorio/handel/app/public/wp-includes/template-loader.php:106
+[11-Dec-2021 13:13:03 UTC] PHP   5. format_products() /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php:39
+[11-Dec-2021 13:19:55 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/functions.php on line 26
+[11-Dec-2021 13:55:08 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function get_post_meta(), 0 passed in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php on line 42 and at least 1 expected in /home/matheus/repositorio/handel/app/public/wp-includes/post.php:2302
+Stack trace:
+#0 /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php(42): get_post_meta()
+#1 /home/matheus/repositorio/handel/app/public/wp-includes/template-loader.php(106): include('/home/matheus/r...')
+#2 /home/matheus/repositorio/handel/app/public/wp-blog-header.php(19): require_once('/home/matheus/r...')
+#3 /home/matheus/repositorio/handel/app/public/index.php(17): require('/home/matheus/r...')
+#4 {main}
+  thrown in /home/matheus/repositorio/handel/app/public/wp-includes/post.php on line 2302
+[11-Dec-2021 13:59:12 UTC] PHP Catchable fatal error:  Object of class WP_Term could not be converted to string in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php on line 45
+[11-Dec-2021 13:59:12 UTC] PHP Stack trace:
+[11-Dec-2021 13:59:12 UTC] PHP   1. {main}() /home/matheus/repositorio/handel/app/public/index.php:0
+[11-Dec-2021 13:59:12 UTC] PHP   2. require() /home/matheus/repositorio/handel/app/public/index.php:17
+[11-Dec-2021 13:59:12 UTC] PHP   3. require_once() /home/matheus/repositorio/handel/app/public/wp-blog-header.php:19
+[11-Dec-2021 13:59:12 UTC] PHP   4. include() /home/matheus/repositorio/handel/app/public/wp-includes/template-loader.php:106
+[11-Dec-2021 18:19:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/functions.php on line 40
+[11-Dec-2021 18:19:12 UTC] PHP Stack trace:
+[11-Dec-2021 18:19:12 UTC] PHP   1. {main}() /home/matheus/repositorio/handel/app/public/index.php:0
+[11-Dec-2021 18:19:12 UTC] PHP   2. require() /home/matheus/repositorio/handel/app/public/index.php:17
+[11-Dec-2021 18:19:12 UTC] PHP   3. require_once() /home/matheus/repositorio/handel/app/public/wp-blog-header.php:19
+[11-Dec-2021 18:19:12 UTC] PHP   4. include() /home/matheus/repositorio/handel/app/public/wp-includes/template-loader.php:106
+[11-Dec-2021 18:19:12 UTC] PHP   5. wc_get_template() /home/matheus/repositorio/handel/app/public/wp-content/plugins/woocommerce/templates/taxonomy-product-cat.php:22
+[11-Dec-2021 18:19:12 UTC] PHP   6. include() /home/matheus/repositorio/handel/app/public/wp-content/plugins/woocommerce/includes/wc-core-functions.php:345
+[11-Dec-2021 18:19:12 UTC] PHP   7. handel_product_list() /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/woocommerce/archive-product.php:21
+[11-Dec-2021 18:21:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/functions.php on line 40
+[11-Dec-2021 18:21:31 UTC] PHP Stack trace:
+[11-Dec-2021 18:21:31 UTC] PHP   1. {main}() /home/matheus/repositorio/handel/app/public/index.php:0
+[11-Dec-2021 18:21:31 UTC] PHP   2. require() /home/matheus/repositorio/handel/app/public/index.php:17
+[11-Dec-2021 18:21:31 UTC] PHP   3. require_once() /home/matheus/repositorio/handel/app/public/wp-blog-header.php:19
+[11-Dec-2021 18:21:31 UTC] PHP   4. include() /home/matheus/repositorio/handel/app/public/wp-includes/template-loader.php:106
+[11-Dec-2021 18:21:31 UTC] PHP   5. wc_get_template() /home/matheus/repositorio/handel/app/public/wp-content/plugins/woocommerce/templates/taxonomy-product-cat.php:22
+[11-Dec-2021 18:21:31 UTC] PHP   6. include() /home/matheus/repositorio/handel/app/public/wp-content/plugins/woocommerce/includes/wc-core-functions.php:345
+[11-Dec-2021 18:21:31 UTC] PHP   7. handel_product_list() /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/woocommerce/archive-product.php:21
+[11-Dec-2021 18:21:36 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/functions.php on line 40
+[11-Dec-2021 18:21:36 UTC] PHP Stack trace:
+[11-Dec-2021 18:21:36 UTC] PHP   1. {main}() /home/matheus/repositorio/handel/app/public/index.php:0
+[11-Dec-2021 18:21:36 UTC] PHP   2. require() /home/matheus/repositorio/handel/app/public/index.php:17
+[11-Dec-2021 18:21:36 UTC] PHP   3. require_once() /home/matheus/repositorio/handel/app/public/wp-blog-header.php:19
+[11-Dec-2021 18:21:36 UTC] PHP   4. include() /home/matheus/repositorio/handel/app/public/wp-includes/template-loader.php:106
+[11-Dec-2021 18:21:36 UTC] PHP   5. wc_get_template() /home/matheus/repositorio/handel/app/public/wp-content/plugins/woocommerce/templates/taxonomy-product-cat.php:22
+[11-Dec-2021 18:21:36 UTC] PHP   6. include() /home/matheus/repositorio/handel/app/public/wp-content/plugins/woocommerce/includes/wc-core-functions.php:345
+[11-Dec-2021 18:21:36 UTC] PHP   7. handel_product_list() /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/woocommerce/archive-product.php:21
+[11-Dec-2021 18:22:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/functions.php on line 40
+[11-Dec-2021 18:22:15 UTC] PHP Stack trace:
+[11-Dec-2021 18:22:15 UTC] PHP   1. {main}() /home/matheus/repositorio/handel/app/public/index.php:0
+[11-Dec-2021 18:22:15 UTC] PHP   2. require() /home/matheus/repositorio/handel/app/public/index.php:17
+[11-Dec-2021 18:22:15 UTC] PHP   3. require_once() /home/matheus/repositorio/handel/app/public/wp-blog-header.php:19
+[11-Dec-2021 18:22:15 UTC] PHP   4. include() /home/matheus/repositorio/handel/app/public/wp-includes/template-loader.php:106
+[11-Dec-2021 18:22:15 UTC] PHP   5. wc_get_template() /home/matheus/repositorio/handel/app/public/wp-content/plugins/woocommerce/templates/taxonomy-product-cat.php:22
+[11-Dec-2021 18:22:15 UTC] PHP   6. include() /home/matheus/repositorio/handel/app/public/wp-content/plugins/woocommerce/includes/wc-core-functions.php:345
+[11-Dec-2021 18:22:15 UTC] PHP   7. handel_product_list() /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/woocommerce/archive-product.php:21
+[11-Dec-2021 18:22:16 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/functions.php on line 40
+[11-Dec-2021 18:22:16 UTC] PHP Stack trace:
+[11-Dec-2021 18:22:16 UTC] PHP   1. {main}() /home/matheus/repositorio/handel/app/public/index.php:0
+[11-Dec-2021 18:22:16 UTC] PHP   2. require() /home/matheus/repositorio/handel/app/public/index.php:17
+[11-Dec-2021 18:22:16 UTC] PHP   3. require_once() /home/matheus/repositorio/handel/app/public/wp-blog-header.php:19
+[11-Dec-2021 18:22:16 UTC] PHP   4. include() /home/matheus/repositorio/handel/app/public/wp-includes/template-loader.php:106
+[11-Dec-2021 18:22:16 UTC] PHP   5. wc_get_template() /home/matheus/repositorio/handel/app/public/wp-content/plugins/woocommerce/templates/taxonomy-product-cat.php:22
+[11-Dec-2021 18:22:16 UTC] PHP   6. include() /home/matheus/repositorio/handel/app/public/wp-content/plugins/woocommerce/includes/wc-core-functions.php:345
+[11-Dec-2021 18:22:16 UTC] PHP   7. handel_product_list() /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/woocommerce/archive-product.php:21
+[11-Dec-2021 18:24:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/functions.php on line 39
+[11-Dec-2021 18:24:13 UTC] PHP Stack trace:
+[11-Dec-2021 18:24:13 UTC] PHP   1. {main}() /home/matheus/repositorio/handel/app/public/index.php:0
+[11-Dec-2021 18:24:13 UTC] PHP   2. require() /home/matheus/repositorio/handel/app/public/index.php:17
+[11-Dec-2021 18:24:13 UTC] PHP   3. require_once() /home/matheus/repositorio/handel/app/public/wp-blog-header.php:19
+[11-Dec-2021 18:24:13 UTC] PHP   4. include() /home/matheus/repositorio/handel/app/public/wp-includes/template-loader.php:106
+[11-Dec-2021 18:24:13 UTC] PHP   5. wc_get_template() /home/matheus/repositorio/handel/app/public/wp-content/plugins/woocommerce/templates/taxonomy-product-cat.php:22
+[11-Dec-2021 18:24:13 UTC] PHP   6. include() /home/matheus/repositorio/handel/app/public/wp-content/plugins/woocommerce/includes/wc-core-functions.php:345
+[11-Dec-2021 18:24:13 UTC] PHP   7. handel_product_list() /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/woocommerce/archive-product.php:21
+[11-Dec-2021 18:24:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/functions.php on line 39
+[11-Dec-2021 18:24:57 UTC] PHP Stack trace:
+[11-Dec-2021 18:24:57 UTC] PHP   1. {main}() /home/matheus/repositorio/handel/app/public/index.php:0
+[11-Dec-2021 18:24:57 UTC] PHP   2. require() /home/matheus/repositorio/handel/app/public/index.php:17
+[11-Dec-2021 18:24:57 UTC] PHP   3. require_once() /home/matheus/repositorio/handel/app/public/wp-blog-header.php:19
+[11-Dec-2021 18:24:57 UTC] PHP   4. include() /home/matheus/repositorio/handel/app/public/wp-includes/template-loader.php:106
+[11-Dec-2021 18:24:57 UTC] PHP   5. wc_get_template() /home/matheus/repositorio/handel/app/public/wp-content/plugins/woocommerce/templates/taxonomy-product-cat.php:22
+[11-Dec-2021 18:24:57 UTC] PHP   6. include() /home/matheus/repositorio/handel/app/public/wp-content/plugins/woocommerce/includes/wc-core-functions.php:345
+[11-Dec-2021 18:24:57 UTC] PHP   7. handel_product_list() /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/woocommerce/archive-product.php:21
+[11-Dec-2021 18:24:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/functions.php on line 39
+[11-Dec-2021 18:24:58 UTC] PHP Stack trace:
+[11-Dec-2021 18:24:58 UTC] PHP   1. {main}() /home/matheus/repositorio/handel/app/public/index.php:0
+[11-Dec-2021 18:24:58 UTC] PHP   2. require() /home/matheus/repositorio/handel/app/public/index.php:17
+[11-Dec-2021 18:24:58 UTC] PHP   3. require_once() /home/matheus/repositorio/handel/app/public/wp-blog-header.php:19
+[11-Dec-2021 18:24:58 UTC] PHP   4. include() /home/matheus/repositorio/handel/app/public/wp-includes/template-loader.php:106
+[11-Dec-2021 18:24:58 UTC] PHP   5. wc_get_template() /home/matheus/repositorio/handel/app/public/wp-content/plugins/woocommerce/templates/taxonomy-product-cat.php:22
+[11-Dec-2021 18:24:58 UTC] PHP   6. include() /home/matheus/repositorio/handel/app/public/wp-content/plugins/woocommerce/includes/wc-core-functions.php:345
+[11-Dec-2021 18:24:58 UTC] PHP   7. handel_product_list() /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/woocommerce/archive-product.php:21
+[11-Dec-2021 18:24:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/functions.php on line 39
+[11-Dec-2021 18:24:58 UTC] PHP Stack trace:
+[11-Dec-2021 18:24:58 UTC] PHP   1. {main}() /home/matheus/repositorio/handel/app/public/index.php:0
+[11-Dec-2021 18:24:58 UTC] PHP   2. require() /home/matheus/repositorio/handel/app/public/index.php:17
+[11-Dec-2021 18:24:58 UTC] PHP   3. require_once() /home/matheus/repositorio/handel/app/public/wp-blog-header.php:19
+[11-Dec-2021 18:24:58 UTC] PHP   4. include() /home/matheus/repositorio/handel/app/public/wp-includes/template-loader.php:106
+[11-Dec-2021 18:24:58 UTC] PHP   5. wc_get_template() /home/matheus/repositorio/handel/app/public/wp-content/plugins/woocommerce/templates/taxonomy-product-cat.php:22
+[11-Dec-2021 18:24:58 UTC] PHP   6. include() /home/matheus/repositorio/handel/app/public/wp-content/plugins/woocommerce/includes/wc-core-functions.php:345
+[11-Dec-2021 18:24:58 UTC] PHP   7. handel_product_list() /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/woocommerce/archive-product.php:21
+[11-Dec-2021 18:24:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/functions.php on line 39
+[11-Dec-2021 18:24:59 UTC] PHP Stack trace:
+[11-Dec-2021 18:24:59 UTC] PHP   1. {main}() /home/matheus/repositorio/handel/app/public/index.php:0
+[11-Dec-2021 18:24:59 UTC] PHP   2. require() /home/matheus/repositorio/handel/app/public/index.php:17
+[11-Dec-2021 18:24:59 UTC] PHP   3. require_once() /home/matheus/repositorio/handel/app/public/wp-blog-header.php:19
+[11-Dec-2021 18:24:59 UTC] PHP   4. include() /home/matheus/repositorio/handel/app/public/wp-includes/template-loader.php:106
+[11-Dec-2021 18:24:59 UTC] PHP   5. wc_get_template() /home/matheus/repositorio/handel/app/public/wp-content/plugins/woocommerce/templates/taxonomy-product-cat.php:22
+[11-Dec-2021 18:24:59 UTC] PHP   6. include() /home/matheus/repositorio/handel/app/public/wp-content/plugins/woocommerce/includes/wc-core-functions.php:345
+[11-Dec-2021 18:24:59 UTC] PHP   7. handel_product_list() /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/woocommerce/archive-product.php:21
+[11-Dec-2021 18:25:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/functions.php on line 39
+[11-Dec-2021 18:25:00 UTC] PHP Stack trace:
+[11-Dec-2021 18:25:00 UTC] PHP   1. {main}() /home/matheus/repositorio/handel/app/public/index.php:0
+[11-Dec-2021 18:25:00 UTC] PHP   2. require() /home/matheus/repositorio/handel/app/public/index.php:17
+[11-Dec-2021 18:25:00 UTC] PHP   3. require_once() /home/matheus/repositorio/handel/app/public/wp-blog-header.php:19
+[11-Dec-2021 18:25:00 UTC] PHP   4. include() /home/matheus/repositorio/handel/app/public/wp-includes/template-loader.php:106
+[11-Dec-2021 18:25:00 UTC] PHP   5. wc_get_template() /home/matheus/repositorio/handel/app/public/wp-content/plugins/woocommerce/templates/taxonomy-product-cat.php:22
+[11-Dec-2021 18:25:00 UTC] PHP   6. include() /home/matheus/repositorio/handel/app/public/wp-content/plugins/woocommerce/includes/wc-core-functions.php:345
+[11-Dec-2021 18:25:00 UTC] PHP   7. handel_product_list() /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/woocommerce/archive-product.php:21
+[11-Dec-2021 18:25:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/functions.php on line 39
+[11-Dec-2021 18:25:01 UTC] PHP Stack trace:
+[11-Dec-2021 18:25:01 UTC] PHP   1. {main}() /home/matheus/repositorio/handel/app/public/index.php:0
+[11-Dec-2021 18:25:01 UTC] PHP   2. require() /home/matheus/repositorio/handel/app/public/index.php:17
+[11-Dec-2021 18:25:01 UTC] PHP   3. require_once() /home/matheus/repositorio/handel/app/public/wp-blog-header.php:19
+[11-Dec-2021 18:25:01 UTC] PHP   4. include() /home/matheus/repositorio/handel/app/public/wp-includes/template-loader.php:106
+[11-Dec-2021 18:25:01 UTC] PHP   5. wc_get_template() /home/matheus/repositorio/handel/app/public/wp-content/plugins/woocommerce/templates/taxonomy-product-cat.php:22
+[11-Dec-2021 18:25:01 UTC] PHP   6. include() /home/matheus/repositorio/handel/app/public/wp-content/plugins/woocommerce/includes/wc-core-functions.php:345
+[11-Dec-2021 18:25:01 UTC] PHP   7. handel_product_list() /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/woocommerce/archive-product.php:21

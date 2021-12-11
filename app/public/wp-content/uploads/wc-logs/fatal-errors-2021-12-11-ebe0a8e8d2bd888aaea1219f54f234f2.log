@@ -1,0 +1,34 @@
+2021-12-11T12:58:37+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function format_products(), 1 passed in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php on line 37 and exactly 2 expected in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php:5
+Stack trace:
+#0 /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php(37): format_products(Array)
+#1 /home/matheus/repositorio/handel/app/public/wp-includes/template-loader.php(106): include('/home/matheus/r...')
+#2 /home/matheus/repositorio/handel/app/public/wp-blog-header.php(19): require_once('/home/matheus/r...')
+#3 /home/matheus/repositorio/handel/app/public/index.php(17): require('/home/matheus/r...')
+#4 {main}
+  thrown, em /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php, na linha 5
+
+2021-12-11T12:59:17+00:00 CRITICAL syntax error, unexpected '$products_slide' (T_VARIABLE), em /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php, na linha 9
+
+2021-12-11T13:03:42+00:00 CRITICAL syntax error, unexpected '}', expecting end of file, em /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php, na linha 75
+
+2021-12-11T13:03:53+00:00 CRITICAL syntax error, unexpected '}', expecting end of file, em /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php, na linha 75
+
+2021-12-11T13:03:54+00:00 CRITICAL syntax error, unexpected '}', expecting end of file, em /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php, na linha 75
+
+2021-12-11T13:03:54+00:00 CRITICAL syntax error, unexpected '}', expecting end of file, em /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php, na linha 75
+
+2021-12-11T13:03:54+00:00 CRITICAL syntax error, unexpected '}', expecting end of file, em /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php, na linha 75
+
+2021-12-11T13:19:55+00:00 CRITICAL syntax error, unexpected '<', em /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/functions.php, na linha 26
+
+2021-12-11T13:55:08+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function get_post_meta(), 0 passed in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php on line 42 and at least 1 expected in /home/matheus/repositorio/handel/app/public/wp-includes/post.php:2302
+Stack trace:
+#0 /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php(42): get_post_meta()
+#1 /home/matheus/repositorio/handel/app/public/wp-includes/template-loader.php(106): include('/home/matheus/r...')
+#2 /home/matheus/repositorio/handel/app/public/wp-blog-header.php(19): require_once('/home/matheus/r...')
+#3 /home/matheus/repositorio/handel/app/public/index.php(17): require('/home/matheus/r...')
+#4 {main}
+  thrown, em /home/matheus/repositorio/handel/app/public/wp-includes/post.php, na linha 2302
+
+2021-12-11T13:59:12+00:00 CRITICAL Object of class WP_Term could not be converted to string, em /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/page-home.php, na linha 45
+
