@@ -1,3 +1,5 @@
+/* Lista de Produtos */
+
 .products-list {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
@@ -26,10 +28,6 @@
   grid-area: 1/1;
 }
 
-.product-item a:hover .product-overlay {
-  opacity: 1;
-}
-
 .product-overlay {
   opacity: 0;
   grid-area: 1/1;
@@ -39,10 +37,16 @@
   transition: opacity 0.3s;
 }
 
+.product-item a:hover .product-overlay {
+  opacity: 1;
+}
+
 .product-overlay .btn-link {
   margin: auto;
   width: 100%;
 }
+
+/* BREADCRUMB */
 
 .breadcrumb {
   margin: 20px auto;
@@ -56,6 +60,8 @@
   border-bottom: 2px solid #000;
 }
 
+/* ARQUIVO */
+
 .products-archive {
   display: grid;
   grid-template-columns: 220px 1fr;
@@ -66,6 +72,8 @@
     grid-template-columns: 1fr;
   }
 }
+
+/* Paginação */
 
 .pagination {
   margin-top: 40px;
@@ -83,15 +91,12 @@
 }
 
 .pagination .next,
-.pagination.prev {
+.pagination .prev {
   background: #fff;
   color: #000;
 }
 
-.pagination .next:hover,
-.pagination .prev:hover {
-  color: orangered;
-}
+/* FILTROS */
 
 .filtro,
 .filtro .widget {
@@ -100,7 +105,7 @@
 
 .filtro-titulo,
 .filtro .widget h2 {
-  font-size: 1.15rem;
+  font-size: 1.125rem;
   color: rgba(0, 0, 0, 0.5);
   font-weight: 400;
   margin-bottom: 20px;
@@ -137,7 +142,6 @@
     margin-top: 40px;
     grid-row: 2;
   }
-
   .filtros::before {
     content: "Filtrar Resultados";
     display: block;
@@ -154,8 +158,8 @@
 }
 
 .filtro-cat a {
-  margin-bottom: 5px;
   display: block;
+  margin-bottom: 5px;
 }
 
 .filtro-cat .sub-menu a::before {
@@ -195,14 +199,14 @@
   display: none;
 }
 
+/* ORDEM */
+
 .woocommerce-ordering {
   margin-bottom: 20px;
-  float: none !important;
   margin-left: auto;
+  float: none !important;
 }
 
 .woocommerce-ordering select {
   font-size: 1rem;
-  border-radius: 10px;
-  background: #fff;
 }

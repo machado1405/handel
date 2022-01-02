@@ -1,0 +1,45 @@
+2021-12-17T21:57:46+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Simple::wp_get_attachment_image_src() in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/woocommerce/single-product.php:13
+Stack trace:
+#0 /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/woocommerce/single-product.php(20): format_single_product(47)
+#1 /home/matheus/repositorio/handel/app/public/wp-includes/template-loader.php(106): include('/home/matheus/r...')
+#2 /home/matheus/repositorio/handel/app/public/wp-blog-header.php(19): require_once('/home/matheus/r...')
+#3 /home/matheus/repositorio/handel/app/public/index.php(17): require('/home/matheus/r...')
+#4 {main}
+  thrown, em /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/woocommerce/single-product.php, na linha 13
+
+2021-12-17T21:57:57+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Simple::wp_get_attachment_image_src() in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/woocommerce/single-product.php:13
+Stack trace:
+#0 /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/woocommerce/single-product.php(20): format_single_product(47)
+#1 /home/matheus/repositorio/handel/app/public/wp-includes/template-loader.php(106): include('/home/matheus/r...')
+#2 /home/matheus/repositorio/handel/app/public/wp-blog-header.php(19): require_once('/home/matheus/r...')
+#3 /home/matheus/repositorio/handel/app/public/index.php(17): require('/home/matheus/r...')
+#4 {main}
+  thrown, em /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/woocommerce/single-product.php, na linha 13
+
+2021-12-17T22:13:24+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wc_print_notice(), 0 passed in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/woocommerce/single-product.php on line 30 and at least 1 expected in /home/matheus/repositorio/handel/app/public/wp-content/plugins/woocommerce/includes/wc-notice-functions.php:184
+Stack trace:
+#0 /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/woocommerce/single-product.php(30): wc_print_notice()
+#1 /home/matheus/repositorio/handel/app/public/wp-includes/template-loader.php(106): include('/home/matheus/r...')
+#2 /home/matheus/repositorio/handel/app/public/wp-blog-header.php(19): require_once('/home/matheus/r...')
+#3 /home/matheus/repositorio/handel/app/public/index.php(17): require('/home/matheus/r...')
+#4 {main}
+  thrown, em /home/matheus/repositorio/handel/app/public/wp-content/plugins/woocommerce/includes/wc-notice-functions.php, na linha 184
+
+2021-12-17T22:13:30+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wc_print_notice(), 0 passed in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/woocommerce/single-product.php on line 30 and at least 1 expected in /home/matheus/repositorio/handel/app/public/wp-content/plugins/woocommerce/includes/wc-notice-functions.php:184
+Stack trace:
+#0 /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/woocommerce/single-product.php(30): wc_print_notice()
+#1 /home/matheus/repositorio/handel/app/public/wp-includes/template-loader.php(106): include('/home/matheus/r...')
+#2 /home/matheus/repositorio/handel/app/public/wp-blog-header.php(19): require_once('/home/matheus/r...')
+#3 /home/matheus/repositorio/handel/app/public/index.php(17): require('/home/matheus/r...')
+#4 {main}
+  thrown, em /home/matheus/repositorio/handel/app/public/wp-content/plugins/woocommerce/includes/wc-notice-functions.php, na linha 184
+
+2021-12-17T22:14:31+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wc_print_notice(), 0 passed in /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/woocommerce/single-product.php on line 30 and at least 1 expected in /home/matheus/repositorio/handel/app/public/wp-content/plugins/woocommerce/includes/wc-notice-functions.php:184
+Stack trace:
+#0 /home/matheus/repositorio/handel/app/public/wp-content/themes/handel/woocommerce/single-product.php(30): wc_print_notice()
+#1 /home/matheus/repositorio/handel/app/public/wp-includes/template-loader.php(106): include('/home/matheus/r...')
+#2 /home/matheus/repositorio/handel/app/public/wp-blog-header.php(19): require_once('/home/matheus/r...')
+#3 /home/matheus/repositorio/handel/app/public/index.php(17): require('/home/matheus/r...')
+#4 {main}
+  thrown, em /home/matheus/repositorio/handel/app/public/wp-content/plugins/woocommerce/includes/wc-notice-functions.php, na linha 184
+
