@@ -2,10 +2,7 @@
   margin: 30px auto;
   padding: 0 20px;
   display: grid;
-  grid-template-columns: minmax(160px, auto) minmax(auto, 600px) minmax(
-      280px,
-      auto
-    );
+  grid-template-columns: minmax(160px, auto) minmax(auto, 600px) minmax(280px, auto);
   justify-content: space-between;
   align-items: center;
   grid-gap: 40px;
@@ -37,7 +34,7 @@
   cursor: pointer;
   justify-self: end;
   text-indent: -100px;
-  background: transparent url("../img/icons/search.svg") no-repeat center center;
+  background: transparent url('../img/icons/search.svg') no-repeat center center;
 }
 
 .conta {
@@ -61,12 +58,12 @@
 }
 
 .conta .carrinho {
-  background-image: url("../img/icons/cart.svg");
+  background-image: url('../img/icons/cart.svg');
   position: relative;
 }
 
 .conta .minha-conta {
-  background-image: url("../img/icons/user.svg");
+  background-image: url('../img/icons/user.svg');
 }
 
 .carrinho-count {
@@ -75,14 +72,14 @@
   width: 16px;
   height: 16px;
   background: orangered;
-  font-size: 0.7rem;
+  font-size: .7rem;
   font-weight: bold;
   display: flex;
-  justify-content: center;
   align-items: center;
+  justify-content: center;
   color: #fff;
   position: absolute;
-  top: 0;
+  top: 0px;
   left: 5px;
 }
 
@@ -106,7 +103,7 @@
 }
 
 .menu-categorias a:hover,
-.current-menu-item a {
+.menu-categorias .current-menu-item a {
   color: orangered;
 }
 
@@ -117,8 +114,7 @@
     -webkit-overflow-scrolling: touch;
     -ms-overflow-style: -ms-autohiding-scrollbar;
   }
-
   .menu-categorias ul {
-    justify-content: initial;
+    justify-content: initial
   }
 }

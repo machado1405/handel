@@ -36,7 +36,7 @@
 
 .product-detail small {
   display: block;
-  color: rgba(0, 0, 0, 0.5);
+  color: rgba(0,0,0,.5);
   font-size: 0.75rem;
   text-transform: uppercase;
   margin-bottom: 10px;
@@ -81,12 +81,12 @@
 }
 
 .product-detail .button::after {
-  content: "";
+  content: '';
   display: block;
-  background: url("../img/icons/add.svg") no-repeat center center;
+  background: url('../img/icons/add.svg') no-repeat center center;
   width: 16px;
   height: 16px;
-  transition: 0.3s;
+  transition: .3s;
 }
 
 .product-detail .button:hover::after {
@@ -94,7 +94,7 @@
 }
 
 .product-detail .button.disabled {
-  opacity: 0.5;
+  opacity: .5;
   cursor: initial;
 }
 
@@ -118,4 +118,8 @@
 
 .product-detail .quantity {
   display: none !important;
+}
+
+.notificacao {
+  margin: 20px auto;
 }

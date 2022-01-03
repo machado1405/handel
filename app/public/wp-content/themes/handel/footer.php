@@ -1,4 +1,3 @@
-
 <footer class="footer">
   <img src="<?= get_stylesheet_directory_uri(); ?>/img/handel-white.svg" alt="Handel">
   <div class="container footer-info">
@@ -23,26 +22,23 @@
       ?>
     </section>
     <section>
-      <h3>Meios de Pagamento</h3>
-        <ul>
-          <li>Cartão de Crédito</li>
-          <li>Boleto Bancário</li>
-          <li>PagSeguro</li>
-        </ul>
+      <h3>Pagamentos</h3>
+      <ul>
+        <li>Cartão de Crédito</li>
+        <li>Boleto Bancário</li>
+        <li>PagSeguro</li>
+      </ul>
     </section>
   </div>
   <?php
     $countries = WC()->countries;
-    $base_adress = $countries->get_base_address();
+    $base_address = $countries->get_base_address();
     $base_city = $countries->get_base_city();
     $base_state = $countries->get_base_state();
-    $complete_adress = "$base_adress, $base_city, $base_state"
+    $complete_address = "$base_address, $base_city, $base_state";
   ?>
-  <small class="footer-copy">
-    Handel &copy; <?= date('Y'); ?> - <?= $complete_adress ?>
-  </small>
+  <small class="footer-copy">Handel &copy; <?= date('Y'); ?> - <?= $complete_address; ?></small>
 </footer>
-
 <?php wp_footer(); ?>
 <script src="<?= get_stylesheet_directory_uri(); ?>/js/slide.js"></script>
 <script src="<?= get_stylesheet_directory_uri(); ?>/js/script.js"></script>

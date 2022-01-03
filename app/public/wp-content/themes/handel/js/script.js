@@ -3,14 +3,13 @@ slide.init();
 
 class Gallery {
   constructor() {
-    this.gallery = document.querySelector("[data-gallery='gallery']");
-    this.galleryList = document.querySelectorAll("[data-gallery='list']");
-    this.galleryMain = document.querySelector("[data-gallery='main']");
-
+    this.gallery = document.querySelector('[data-gallery="gallery"]');
+    this.galleryList = document.querySelectorAll('[data-gallery="list"]');
+    this.galleryMain = document.querySelector('[data-gallery="main"]');
     this.changeImage = this.changeImage.bind(this);
   }
 
-  changeImage({currentTarget}) {
+  changeImage({ currentTarget }) {
     this.galleryMain.src = currentTarget.src;
   }
 

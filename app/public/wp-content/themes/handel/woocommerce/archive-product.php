@@ -17,22 +17,24 @@ $data['products'] = format_products($products);
   <nav class="filtros">
     <div class="filtro">
       <h3 class="filtro-titulo">Categorias</h3>
-      <?php wp_nav_menu([
-        'menu' => 'categorias-interna',
-        'menu_class' => 'filtro-cat',
-        'container' => false
-      ]) ?>
+      <?php
+        wp_nav_menu([
+          'menu' => 'categorias-internas',
+          'menu_class' => 'filtro-cat',
+          'container' => false,
+        ]);
+      ?>
     </div>
     <div class="filtro">
-        <?php 
-          $attribute_taxonomies = wc_get_attribute_taxonomies();
-          foreach($attribute_taxonomies as $attribute) {
-            the_widget('WC_Widget_Layered_Nav', [
-              'title' => $attribute->attribute_label,
-              'attribute' => $attribute->attribute_name
-            ]);
-          }
-        ?>
+      <?php
+        $attribute_taxonomies = wc_get_attribute_taxonomies();
+        foreach($attribute_taxonomies as $attribute) {
+          the_widget('WC_Widget_Layered_Nav', [
+            'title' => $attribute->attribute_label,
+            'attribute' => $attribute->attribute_name,
+          ]);
+        }
+      ?>
     </div>
     <div class="filtro">
       <h3 class="filtro-titulo">Filtrar por preço</h3>

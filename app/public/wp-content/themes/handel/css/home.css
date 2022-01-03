@@ -1,3 +1,4 @@
+/* VANTAGENS */
 .vantagens {
   display: flex;
   justify-content: center;
@@ -13,17 +14,18 @@
 }
 
 .vantagens li:nth-child(1) {
-  background-image: url("../img/icons/frete.svg");
+  background-image: url('../img/icons/frete.svg');
 }
 
 .vantagens li:nth-child(2) {
-  background-image: url("../img/icons/troca.svg");
+  background-image: url('../img/icons/troca.svg');
 }
 
 .vantagens li:nth-child(3) {
-  background-image: url("../img/icons/card.svg");
+  background-image: url('../img/icons/card.svg');
 }
 
+/* SLIDE */
 .slide-item {
   display: grid;
   grid-template-columns: 65% 35%;
@@ -40,7 +42,6 @@
   .slide-item {
     grid-template-columns: 1fr;
   }
-
   .slide-info {
     margin-top: 20px;
   }
@@ -49,7 +50,7 @@
 .slide-preco {
   display: block;
   margin-bottom: 5px;
-  color: rgba(255, 255, 255, 0.5);
+  color: rgba(255,255,255,.5);
   font-weight: 300;
 }
 
@@ -59,16 +60,12 @@
   margin-bottom: 20px;
 }
 
+/* CATEGORIAS */
+
 .categorias-home {
   display: grid;
   grid-template-columns: 1fr 1fr;
   grid-gap: 20px;
-}
-
-@media (max-width: 800px) {
-  .categorias-home {
-    grid-template-columns: 1fr;
-  }
 }
 
 .categorias-home a {
@@ -94,11 +91,6 @@
   margin-right: 40px;
   margin-bottom: 40px;
   width: 160px;
-}
-
-.categorias-home span:hover {
-  transform: scale(1.2);
-  transition: transform 0.3s;
 }
 
 .categorias-home a:nth-child(2) span {

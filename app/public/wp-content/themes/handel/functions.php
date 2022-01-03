@@ -33,35 +33,44 @@ function remove_some_body_class($classes) {
 }
 add_filter('body_class', 'remove_some_body_class');
 
-function format_products($products, $img_size = 'medium') {
-  $products_final = [];
-  foreach($products as $product) {
-    $products_final[] = [
-      'name' => $product->get_name(),
-      'price' => $product->get_price_html(),
-      'link' => $product->get_permalink(),
-      'img' => wp_get_attachment_image_src($product->get_image_id(), $img_size)[0],
-    ];
-  }
-  return $products_final;
+include(get_template_directory() . '/inc/product-list.php');
+
+add_filter('woocommerce_enable_order_notes_field', '__return_false');
+
+function meu_dashboard() {
+  echo 'Origamid';
 }
 
-function handel_product_list($products) { ?>
-  <ul class="products-list">
-    <?php foreach($products as $product) { ?>
-      <li class="product-item">
-        <a href="<?= $product['link']; ?>">
-          <div class="product-info">
-            <img src="<?= $product['img']; ?>" alt="<?= $product['name']; ?>">
-            <h2><?= $product['name']; ?> - <span><?= $product['price']; ?></span></h2>
-          </div>
-          <div class="product-overlay">
-            <span class="btn-link">Ver Mais</span>
-          </div>
-        </a>
-      </li>
-    <?php } ?>
-  </ul>
-<?php 
-} // Fecha a função handel
+add_action('woocommerce_account_dashboard', 'meu_dashboard');
+
+include(get_template_directory() . '/inc/user-custom-menu.php');
+include(get_template_directory() . '/inc/checkout-customizado.php');
+
+
+// function handel_change_email_header() {
+//   echo '<h2 style="text-align: center;">Mensagem Header</h2>';
+// }
+
+// add_action('woocommerce_email_header', 'handel_change_email_header');
+
+function handel_change_email_footer_text($text) {
+  echo 'Handel
+  <ul style="padding: 0px; margin: 0px; list-style: none;">
+    <li><a href="/">Facebook</a></li>
+    <li><a href="/">Instagram</a></li>
+    <li><a href="/">YouTube</a></li>
+  </ul>';
+}
+add_filter('woocommerce_email_footer_text', 'handel_change_email_footer_text');
+
+function handel_add_email_meta($order) {
+  $mensagem = get_post_meta($order->get_id(), 'mensagem_personalizada', true);
+  $presente = get_post_meta($order->get_id(), '_billing_presente', true);
+  
+  echo '<h2 style="margin: -20px 0 10px 0px;">Detalhes</h2>
+    <p style="font-size: 16px; border: 1px solid #e5e5e5; padding: 10px; margin-bottom: 0px;"><strong>Mensagem: </strong>' . $mensagem .  '</p>
+    <p style="font-size: 16px; border: 1px solid #e5e5e5; padding: 10px;"><strong>Presente: </strong>' . $presente .  '</p>
+  ';
+}
+add_action('woocommerce_email_order_meta', 'handel_add_email_meta');
 ?>
