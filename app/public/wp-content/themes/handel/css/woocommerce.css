@@ -1,6 +1,6 @@
 /* Geral */
-.woocommerce a:hover {
-  color: orangered;
+.woocommerce a {
+  text-decoration: underline;
 }
 
 /* Notificações */
@@ -17,7 +17,7 @@
 .woocommerce-info::before,
 .woocommerce-error::before {
   display: none;
-}
+} 
 
 .woocommerce-error {
   border-left: 4px solid orangered;
@@ -25,14 +25,14 @@
 
 .woocommerce-message,
 .woocommerce-info {
-  border-left: 4px solid #000;
+  border-left: 4px solid olivedrab;
 }
 
 /* Formulários */
 .woocommerce .input-text {
   font-size: 1.125rem !important;
-  border: 1px solid rgba(0, 0, 0, 0.08) !important;
-  background: rgba(0, 0, 0, 0.08) !important;
+  border: 1px solid rgba(0,0,0,.08) !important;
+  background: rgba(0,0,0,.08) !important;
   padding: 10px 15px !important;
   border-radius: 4px !important;
 }
@@ -58,7 +58,7 @@
 .woocommerce-cart a.button.alt {
   text-transform: capitalize;
   font-weight: 500;
-  background-color: #0066bb;
+  background-color: #0066BB;
 }
 
 .woocommerce-cart a.button.alt:hover {
@@ -108,7 +108,7 @@
 
 .woocommerce #payment,
 .woocommerce #payment div.payment_box {
-  background-color: rgba(0, 0, 0, 0.08);
+  background-color: rgba(0,0,0,.08);
   font-size: 1rem;
   color: #000;
 }
@@ -140,7 +140,7 @@
 }
 
 .woocommerce #payment div.payment_box ::-webkit-input-placeholder {
-  color: rgba(0, 0, 0, 0.4);
+  color: rgba(0,0,0,.4);
 }
 
 /* Minha Conta */
@@ -184,7 +184,7 @@
   text-decoration: none;
   display: block;
   padding: 10px;
-  border-bottom: 2px solid rgba(255, 255, 255, 0.08);
+  border-bottom: 2px solid rgba(255,255,255,.08);
 }
 
 .woocommerce-MyAccount-navigation a:hover,
@@ -213,7 +213,7 @@
 }
 .woocommerce-order-received .woocommerce-thankyou-order-received {
   color: #fff;
-  background-color: #0066bb;
+  background-color: #0066BB;
   padding: 15px;
   border-radius: 4px;
   margin-bottom: 30px;
@@ -241,7 +241,7 @@
 .woocommerce-page .woocommerce-message .button {
   font-weight: normal;
   color: #fff;
-  background: #0066bb;
+  background: #0066BB;
 }
 
 .woocommerce-page .woocommerce-message .button:hover {
